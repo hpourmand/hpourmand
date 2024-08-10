@@ -3,3 +3,6 @@ I am Habibeh, a dedicated data professional with a strong foundation in mathemat
 
 I am particularly passionate about using data to solve challenging problems and drive meaningful innovation. My goal is to leverage my analytical skills and technical expertise to contribute to projects that positively impact both organizational success and societal well-being.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpourmand)](https://github.com/anuraghazra/github-readme-stats)
+
