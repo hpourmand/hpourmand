@@ -7,10 +7,10 @@ I am particularly passionate about using data to solve challenging problems and 
 
 
 
-Skills: Python / SQL / Tableau / Power BI / Excel
+Skills: Python / SQL / Tableau / Power BI / IBM Cognos Analytics / Excel / Azure / 
 
-- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: habibeh.pourmand@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hpourmand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/habibehpourmand/)  
 
