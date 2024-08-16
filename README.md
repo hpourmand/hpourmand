@@ -2,7 +2,7 @@
 #### Data Enthusiast
 
 
-### Hi there 👋, Habibeh Pourmand
+### Hi there 👋
 
 
 
