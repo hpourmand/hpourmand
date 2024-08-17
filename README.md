@@ -2,17 +2,20 @@
 #### Data Enthusiast
 
 
-### Hi there 👋
+### Hi there! 👋
 
-Hi there! 👋
-I'm Habibeh, a passionate data professional with a strong foundation in mathematics and over three years of hands-on experience. I excel at uncovering actionable insights from complex datasets, transforming data into strategies that drive business success and innovation.
+
+I'm Habibeh, a passionate data professional with a strong foundation in mathematics and over three years of hands-on experience in data analyst. I excel at uncovering actionable insights from complex datasets, transforming data into strategies that drive business success and innovation.
 
 🔍 What I Do:
 
 Data Analytics: Turning raw data into valuable insights.
 Statistical Analysis: Applying mathematical models to solve real-world problems.
 Business Intelligence: Developing strategies to enhance organizational performance.
-💻 Technical Toolbox
+
+
+💻 Technical Toolbox:
+
 Programming & Analytics: Python | SQL | Power BI | Tableau | IBM Cognos Analytics | Excel | Azure
 Tools & Technologies:
 
@@ -26,7 +29,7 @@ I am particularly passionate about using data to solve challenging problems and 
 
 
 
-Skills: Python / SQL / Tableau / Power BI / IBM Cognos Analytics / Excel / Azure / 
+
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
