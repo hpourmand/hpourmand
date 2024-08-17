@@ -16,6 +16,10 @@ Statistical Analysis: Applying mathematical models to solve real-world problems.
 Business Intelligence: Developing strategies to enhance organizational performance.
 
 
+
+
+
+
 💻 Technical Toolbox:
 
 
