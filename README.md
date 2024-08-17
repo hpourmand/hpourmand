@@ -54,7 +54,12 @@ Business Intelligence: Developing strategies to enhance organizational performan
        
 
 
-- 📫 How to reach me: habibeh.pourmand@gmail.com 
+🌐 Connect with Me
+Email: habibeh.pourmand@gmail.com
+GitHub: hpourmand
+LinkedIn: Habibeh Pourmand
+Dev.to: hpourmand
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hpourmand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/hpourmand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/habibehpourmand/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/hpourmand)  
