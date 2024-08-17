@@ -7,7 +7,7 @@
 
 I'm Habibeh, a passionate data professional with a strong foundation in mathematics and over three years of hands-on experience in data analyst. I excel at uncovering actionable insights from complex datasets, transforming data into strategies that drive business success and innovation.
 
-🔍 What I Do:
+### 🔍 What I Do:
 
 Data Analytics: Turning raw data into valuable insights.
 
