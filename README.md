@@ -10,7 +10,9 @@ I'm Habibeh, a passionate data professional with a strong foundation in mathemat
 🔍 What I Do:
 
 Data Analytics: Turning raw data into valuable insights.
+
 Statistical Analysis: Applying mathematical models to solve real-world problems.
+
 Business Intelligence: Developing strategies to enhance organizational performance.
 
 
