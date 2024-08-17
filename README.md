@@ -58,7 +58,7 @@ Business Intelligence: Developing strategies to enhance organizational performan
 - **Email:** [habibeh.pourmand@gmail.com](mailto:habibeh.pourmand@gmail.com)
 - **GitHub:** [hpourmand](https://github.com/hpourmand)
 - **LinkedIn:** [Habibeh Pourmand](https://www.linkedin.com/in/habibehpourmand/)
-- **Dev.to:** [hpourmand](https://dev.to/hpourmand)
+
 
 
 
