@@ -20,7 +20,7 @@ Business Intelligence: Developing strategies to enhance organizational performan
 
 
 
-💻 Technical Toolbox:
+### 💻 Technical Toolbox:
 
 
 
@@ -54,11 +54,12 @@ Business Intelligence: Developing strategies to enhance organizational performan
        
 
 
-🌐 Connect with Me
-Email: habibeh.pourmand@gmail.com
-GitHub: hpourmand
-LinkedIn: Habibeh Pourmand
-Dev.to: hpourmand
+### 🌐 Connect with Me
+- **Email:** [habibeh.pourmand@gmail.com](mailto:habibeh.pourmand@gmail.com)
+- **GitHub:** [hpourmand](https://github.com/hpourmand)
+- **LinkedIn:** [Habibeh Pourmand](https://www.linkedin.com/in/habibehpourmand/)
+- **Dev.to:** [hpourmand](https://dev.to/hpourmand)
+
 
 
 
