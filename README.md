@@ -14,6 +14,8 @@ I am particularly passionate about using data to solve challenging problems and 
 
 
 Skills: Python / SQL / Tableau / Power BI / IBM Cognos Analytics / Excel / Azure / 
+![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+
 
 - 📫 How to reach me: habibeh.pourmand@gmail.com 
 
